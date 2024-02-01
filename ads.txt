@@ -4,3 +4,4 @@
 0.0.0.0 mediaserver.partyaffiliates.com
 0.0.0.0 embed.fireplace.yahoo.com
 0.0.0.0 static.ibsrv.net
+0.0.0.0 *.amazon-adsystem.*
